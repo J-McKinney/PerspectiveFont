@@ -1,3 +1,11 @@
+/* .pWrapper:hover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transform: translate(0, -50px);
+} */
+
 .perspective-text {
   color: white;
   font-family: Arial;
@@ -26,4 +34,28 @@ p {
 
 .perspective-line:nth-child(even) {
   transform: skew(0deg, -30deg) scaleY(1.333);
+}
+
+.perspective-line:hover p {
+  transform: translate(0, -50px);
+}
+
+.perspective-line:nth-child(1) {
+  left: 29px;
+}
+
+.perspective-line:nth-child(2) {
+  left: 58px;
+}
+
+.perspective-line:nth-child(3) {
+  left: 87px;
+}
+
+.perspective-line:nth-child(4) {
+  left: 116px;
+}
+
+.perspective-line:nth-child(5) {
+  left: 145px;
 }
