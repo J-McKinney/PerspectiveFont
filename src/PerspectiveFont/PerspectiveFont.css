@@ -1,22 +1,17 @@
-/* .pWrapper:hover {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  transform: translate(0, -50px);
-} */
-
 .perspective-text {
   color: white;
   font-family: Arial;
-  font-size: 58px;
-  font-weight: 900;
+  font-size: 40px;
+  font-weight: 600;
   letter-spacing: -2px;
   text-transform: uppercase;
+  text-align: center;
+  justify-content: center;
+  margin-right: 140px;
 }
 
 .perspective-line {
-  height: 50px;
+  height: 40px;
   overflow: hidden;
   position: relative;
 }
@@ -36,7 +31,7 @@ p {
   transform: skew(0deg, -30deg) scaleY(1.333);
 }
 
-.perspective-line:hover p {
+.perspective-text:hover p {
   transform: translate(0, -50px);
 }
 
