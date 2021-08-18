@@ -1,7 +1,7 @@
 {
   "name": "perspective-font",
   "Author": "Jesse McKinney",
-  "homepage": "https://j-mckinney.github.io/PerspectiveFont/",
+  "homepage": "https://j-mckinney.github.io/perspective-font/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
