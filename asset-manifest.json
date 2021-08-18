@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/perspective-font/static/css/main.95aec8da.chunk.css",
-    "main.js": "/perspective-font/static/js/main.b3be798f.chunk.js",
-    "main.js.map": "/perspective-font/static/js/main.b3be798f.chunk.js.map",
-    "runtime-main.js": "/perspective-font/static/js/runtime-main.43b3e668.js",
-    "runtime-main.js.map": "/perspective-font/static/js/runtime-main.43b3e668.js.map",
-    "static/js/2.349179e2.chunk.js": "/perspective-font/static/js/2.349179e2.chunk.js",
-    "static/js/2.349179e2.chunk.js.map": "/perspective-font/static/js/2.349179e2.chunk.js.map",
-    "index.html": "/perspective-font/index.html",
-    "precache-manifest.6c408d01724b2baa7739fe40cabf5c50.js": "/perspective-font/precache-manifest.6c408d01724b2baa7739fe40cabf5c50.js",
-    "service-worker.js": "/perspective-font/service-worker.js",
-    "static/css/main.95aec8da.chunk.css.map": "/perspective-font/static/css/main.95aec8da.chunk.css.map",
-    "static/js/2.349179e2.chunk.js.LICENSE.txt": "/perspective-font/static/js/2.349179e2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/perspective-font/static/media/logo.5d5d9eef.svg"
+    "main.css": "/PerspectiveFont/static/css/main.95aec8da.chunk.css",
+    "main.js": "/PerspectiveFont/static/js/main.5dcebe5e.chunk.js",
+    "main.js.map": "/PerspectiveFont/static/js/main.5dcebe5e.chunk.js.map",
+    "runtime-main.js": "/PerspectiveFont/static/js/runtime-main.8e4db6b8.js",
+    "runtime-main.js.map": "/PerspectiveFont/static/js/runtime-main.8e4db6b8.js.map",
+    "static/js/2.0d8a6a03.chunk.js": "/PerspectiveFont/static/js/2.0d8a6a03.chunk.js",
+    "static/js/2.0d8a6a03.chunk.js.map": "/PerspectiveFont/static/js/2.0d8a6a03.chunk.js.map",
+    "index.html": "/PerspectiveFont/index.html",
+    "precache-manifest.e8c17a5a065916a1355ea17ca0b55e5f.js": "/PerspectiveFont/precache-manifest.e8c17a5a065916a1355ea17ca0b55e5f.js",
+    "service-worker.js": "/PerspectiveFont/service-worker.js",
+    "static/css/main.95aec8da.chunk.css.map": "/PerspectiveFont/static/css/main.95aec8da.chunk.css.map",
+    "static/js/2.0d8a6a03.chunk.js.LICENSE.txt": "/PerspectiveFont/static/js/2.0d8a6a03.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PerspectiveFont/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43b3e668.js",
-    "static/js/2.349179e2.chunk.js",
+    "static/js/runtime-main.8e4db6b8.js",
+    "static/js/2.0d8a6a03.chunk.js",
     "static/css/main.95aec8da.chunk.css",
-    "static/js/main.b3be798f.chunk.js"
+    "static/js/main.5dcebe5e.chunk.js"
   ]
 }
